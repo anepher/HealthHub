@@ -13,9 +13,9 @@
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-	"user":"aa",
-	"pass":"ss",
-	"server:"ddd",
+	"user":"",
+	"pass":"",
+	"server:"",
       }
     },
     "ActionTrackerWeb": {
